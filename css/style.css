@@ -31,10 +31,11 @@ button:hover > i {
 button i {
     color: #ce0000;
     font-weight: bold;
+    pointer-events: none;
 }
 
 input, select {
-    padding: rem 0.5rem;
+    padding: 0.25rem 0.5rem;
 }
 
 .hide {
@@ -50,7 +51,7 @@ input, select {
     border-radius: 15px;
 }
 
-#todo-container header {
+.todo-container header {
     text-align: center;
     padding: 0 1rem 1rem;
     border-bottom: 1px solid #ccc;
@@ -75,6 +76,10 @@ input, select {
 
 .form-control input{
     margin-right: 0.3rem;
+}
+
+#edit-btn{
+    margin-left: 5rem;
 }
 
 #cancel-edit-btn{
