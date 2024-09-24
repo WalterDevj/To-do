@@ -8,8 +8,8 @@
 
 body {
     background-image: url("../img/🍀𝑼𝒏𝒐𝒉𝒂𝒏𝒂\ 𝒀𝒂𝒄𝒉𝒊𝒓𝒖🍀.jpg");
-    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 button {
