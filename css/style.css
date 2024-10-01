@@ -7,15 +7,15 @@
 }
 
 body {
-    background-image: url("../img/🍀𝑼𝒏𝒐𝒉𝒂𝒏𝒂\ 𝒀𝒂𝒄𝒉𝒊𝒓𝒖🍀.jpg");
+    background-image: url("/img/Satoru\ Wallpaper.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 button {
     background-color: #1d1d1d;
-    color: #ce0000;
-    border: 2px solid #ce0000;
+    color: #009ece;
+    border: 2px solid #009ece;
     padding: .3rem .6rem;
     cursor: pointer;
     display: flex;
@@ -29,7 +29,7 @@ button:hover > i {
 }
 
 button i {
-    color: #ce0000;
+    color: #009ece;
     font-weight: bold;
     pointer-events: none;
 }
@@ -144,7 +144,7 @@ input, select {
 }
 
 .done {
-    background-color: #ce0000;
+    background-color: #009ece;
 }
 
 .done h3{
